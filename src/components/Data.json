@@ -1,0 +1,149 @@
+[
+    {
+		"First_Name": "Emily",
+		"Last_Name": "Lallier",
+		"Phone_number": "(123) 456-7890",
+		"Email": "lalliere@university.edu",
+		"Department": "CaPS"
+	},
+	{
+		"First_Name": "Wang",
+		"Last_Name": "Rowe",
+		"Phone_number": "(123) 526-1391",
+		"Email": "rowew@university.edu",
+		"Department": "Academic Affairs"
+	},
+	{
+		"First_Name": "MacKenzie",
+		"Last_Name": "Frederick",
+		"Phone_number": "(123) 694-5036",
+		"Email": "frederickm@university.edu",
+		"Department": "CaPS"
+	},
+	{
+		"First_Name": "Adena",
+		"Last_Name": "Slater",
+		"Phone_number": "(123) 329-5751",
+		"Email": "slatera@university.edu",
+		"Department": "Athletics"
+	},
+	{
+		"First_Name": "Genevieve",
+		"Last_Name": "Walton",
+		"Phone_number": "(123) 378-2926",
+		"Email": "waltong@university.edu",
+		"Department": "Alumni Relations"
+	},
+	{
+		"First_Name": "Zenaida",
+		"Last_Name": "Martinez",
+		"Phone_number": "(123) 707-4258",
+		"Email": "martinezz@university.edu",
+		"Department": "Athletics"
+	},
+	{
+		"First_Name": "Lars",
+		"Last_Name": "Albert",
+		"Phone_number": "(123) 791-7904",
+		"Email": "albertl@university.edu",
+		"Department": "Alumni Relations"
+	},
+	{
+		"First_Name": "Alexa",
+		"Last_Name": "Padilla",
+		"Phone_number": "(123) 622-1697",
+		"Email": "padillaa@university.edu",
+		"Department": "Dining"
+	},
+	{
+		"First_Name": "Janna",
+		"Last_Name": "Lott",
+		"Phone_number": "(123) 289-8218",
+		"Email": "lottj@university.edu",
+		"Department": "Registrar"
+	},
+	{
+		"First_Name": "Olympia",
+		"Last_Name": "Mcknight",
+		"Phone_number": "(123) 819-8326",
+		"Email": "mcknighto@university.edu",
+		"Department": "Parking"
+	},
+	{
+		"First_Name": "Erich",
+		"Last_Name": "Kinney",
+		"Phone_number": "(123) 815-6386",
+		"Email": "kinneye@university.edu",
+		"Department": "Parking"
+	},
+	{
+		"First_Name": "Zenia",
+		"Last_Name": "Hood",
+		"Phone_number": "(123) 847-8571",
+		"Email": "hoodz@university.edu",
+		"Department": "Registrar"
+	},
+	{
+		"First_Name": "Brandon",
+		"Last_Name": "Barton",
+		"Phone_number": "(123) 509-1394",
+		"Email": "bartonb@university.edu",
+		"Department": "Dining"
+	},
+	{
+		"First_Name": "Austin",
+		"Last_Name": "Franco",
+		"Phone_number": "(123) 844-9265",
+		"Email": "francoa@university.edu",
+		"Department": "Student Affairs"
+	},
+	{
+		"First_Name": "Iliana",
+		"Last_Name": "Harrison",
+		"Phone_number": "(123) 202-7482",
+		"Email": "harrisoni@university.edu",
+		"Department": "Advising"
+	},
+	{
+		"First_Name": "Jarrod",
+		"Last_Name": "Barry",
+		"Phone_number": "(123) 306-9733",
+		"Email": "barryj@university.edu",
+		"Department": "Academic Affairs"
+	},
+	{
+		"First_Name": "Paul",
+		"Last_Name": "Madden",
+		"Phone_number": "(123) 308-4335",
+		"Email": "maddenp@university.edu",
+		"Department": "CaPS"
+	},
+	{
+		"First_Name": "Dominic",
+		"Last_Name": "Perez",
+		"Phone_number": "(123) 255-9581",
+		"Email": "perezd@university.edu",
+		"Department": "Student Affairs"
+	},
+	{
+		"First_Name": "Malachi",
+		"Last_Name": "Allen",
+		"Phone_number": "(123) 822-1696",
+		"Email": "allenm@elitpellentesque.com",
+		"Department": "Advising"
+	},
+	{
+		"First_Name": "Ria",
+		"Last_Name": "Herring",
+		"Phone_number": "(123) 477-9584",
+		"Email": "herringr@university.edu",
+		"Department": "MUB"
+	},
+	{
+		"First_Name": "Simone",
+		"Last_Name": "Collier",
+		"Phone_number": "(123) 238-5333",
+		"Email": "colliers@university.edu",
+		"Department": "MUB"
+    }
+]
