@@ -16,21 +16,20 @@ function EmployeeTable(props) {
           </th>
           <th>
             <button onClick={() => props.sortBy("Last_Name")}>
-              {" "}
               Last Name
             </button>
           </th>
           <th>
             <button onClick={() => props.sortBy("Phone_number")}>
-              Phone Number{" "}
+              Phone Number
             </button>
           </th>
           <th>
             <button onClick={() => props.sortBy("Email")}> Email</button>
           </th>
           <th>
-            <button onClick={() => props.sortBy("Company_Name")}>
-              Company Name
+            <button onClick={() => props.sortBy("Department")}>
+              Department
             </button>
           </th>
         </tr>
@@ -42,7 +41,7 @@ function EmployeeTable(props) {
             <td>{row.Last_Name}</td>
             <td>{row.Phone_number}</td>
             <td>{row.Email}</td>
-            <td>{row.Company_Name}</td>
+            <td>{row.Department}</td>
           </tr>
         ))}
       </tbody>
