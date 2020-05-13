@@ -40,7 +40,7 @@ class App extends React.Component {
       <div>
         <Title />
         <SearchBar />
-        <EmployeeTable data={this.state.data} sortBy={this.sortBy}  />;
+        <EmployeeTable data={this.state.data} sortBy={this.sortBy}  />
       </div>
     );
   }
