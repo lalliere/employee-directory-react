@@ -1,12 +1,19 @@
 th {
-  background-color: #00695c;
-  color: white;
+  background-color: #002e69;
 }
 
+
 table {
-margin: auto;
+margin: 10px;
+}
+
+button {
+  background: transparent;
+  color: white;
+  border: none;
+  text-decoration: underline;
 }
 
 .table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
-background-color: rgb(192, 235, 230);
+background-color: rgb(192, 218, 235);
 }
