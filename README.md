@@ -24,7 +24,7 @@ This application will allow the user to view a table of all employees, and eithe
 * React Bootstrap
 
 ## Links:
-* Deployed App: 
+* Deployed App: [https://lalliere.github.io/employee-directory-react/](https://lalliere.github.io/employee-directory-react/)
 * GitHub Repo: [https://github.com/lalliere/employee-directory-react](https://github.com/lalliere/employee-directory-react)
 
 ## Got Questions?
