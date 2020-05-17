@@ -25,7 +25,9 @@ function EmployeeTable(props) {
             </button>
           </th>
           <th>
-            <button onClick={() => props.sortBy("Email")}> Email</button>
+            <button onClick={() => props.sortBy("Email")}> 
+            Email
+            </button>
           </th>
           <th>
             <button onClick={() => props.sortBy("Department")}>
@@ -36,7 +38,7 @@ function EmployeeTable(props) {
       </thead>
       <tbody>
         {props.data.map((row) => (
-          <tr>
+          <tr key={row.Email}>
             <td>{row.First_Name}</td>
             <td>{row.Last_Name}</td>
             <td>{row.Phone_number}</td>
