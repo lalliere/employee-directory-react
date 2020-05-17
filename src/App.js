@@ -60,7 +60,7 @@ class App extends React.Component {
           ) ||
           data.Phone_number.includes(this.state.searchFirst) ||
           data.Email.toLowerCase().includes(this.state.searchFirst.toLowerCase()) ||
-          data.Deparment.toLowerCase().includes(
+          data.Department.toLowerCase().includes(
             this.state.searchFirst.toLowerCase()
           )
       );
@@ -77,13 +77,16 @@ class App extends React.Component {
     return (
       <div>
         <Title />
-        <form className="form">
-          <input className="search-bar"
-            value={this.state.searchFirst}
-            name="searchFirst"
-            onChange={this.handleInputChange}
-          />
-        </form>
+        <div class="container">
+          <form className="form">
+            <input className="search-bar"
+              value={this.state.searchFirst}
+              name="searchFirst"
+              onChange={this.handleInputChange}
+              placeholder="Search"
+            />
+          </form>
+        </div>
         <EmployeeTable data={this.state.filteredTable} sortBy={this.sortBy} />
       </div>
     );
